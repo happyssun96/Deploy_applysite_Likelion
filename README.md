@@ -10,7 +10,7 @@
 ```
 1. python -m venv myvenv
 2. source myvenv/scripts/activate
-3. pip install django
+3. pip install -r requirements.txt
 4. python manage.py makemigrations
 5. python manage.py migrate
 6. python manage.py runserver
@@ -18,20 +18,21 @@
 
 # 주요 기능
 
-- 회원가입 / 로그인
+- 메인 페이지
 
-<p align="center"><img width="600" src="https://user-images.githubusercontent.com/59468442/103204262-42a56b00-493a-11eb-9ebe-de7def8ed425.jpg">
-
-<p align="center"><img width="600" src="https://user-images.githubusercontent.com/59468442/103204274-4f29c380-493a-11eb-9f87-c62adae134bf.gif">
+<p align="center"><img width="600" src="https://user-images.githubusercontent.com/59468442/103211871-b51f4680-494c-11eb-823f-6d97b0245175.jpg">
 
 
-- 글쓰기 기능
+- 지원서 작성
 
-<p align="center"><img width="600" src="https://user-images.githubusercontent.com/59468442/103203818-2523d180-4939-11eb-9539-7a0f0866e53b.gif">
+<p align="center"><img width="600" src="https://user-images.githubusercontent.com/59468442/103212079-41ca0480-494d-11eb-9eab-02460f9e98e6.jpg">
 
 
-- 글 수정 및 삭제 기능
+- 질문 작성
 
-<p align="center"><img width="600" src="https://user-images.githubusercontent.com/59468442/103204080-dd517a00-4939-11eb-9db7-d17f4e1338d6.gif">
+<p align="center"><img width="600" src="https://user-images.githubusercontent.com/59468442/103212138-6920d180-494d-11eb-853b-f9d146557916.gif">
 
-<p align="center"><img width="600" src="https://user-images.githubusercontent.com/59468442/103204438-b778a500-493a-11eb-9ae1-bb231eca296b.gif">
+
+- 관리자 기능
+ - 관리자로 로그인 한 후의 메인 페이지
+ <p align="center"><img width="600" src="https://user-images.githubusercontent.com/59468442/103211967-f7488800-494c-11eb-99a5-8605a6541e7e.jpg">

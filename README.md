@@ -34,5 +34,5 @@
 
 
 - 관리자 기능
- - 관리자로 로그인 한 후의 메인 페이지
- <p align="center"><img width="600" src="https://user-images.githubusercontent.com/59468442/103211967-f7488800-494c-11eb-99a5-8605a6541e7e.jpg">
+  - 관리자로 로그인 한 후의 메인 페이지
+  <p align="center"><img width="600" src="https://user-images.githubusercontent.com/59468442/103211967-f7488800-494c-11eb-99a5-8605a6541e7e.jpg">

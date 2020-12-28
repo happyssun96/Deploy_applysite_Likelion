@@ -36,3 +36,11 @@
 - 관리자 기능
   - 관리자로 로그인 한 후의 메인 페이지
   <p align="center"><img width="600" src="https://user-images.githubusercontent.com/59468442/103211967-f7488800-494c-11eb-99a5-8605a6541e7e.jpg">
+  
+  - 지원서 확인
+  <p align="center"><img width="600" src="https://user-images.githubusercontent.com/59468442/103212628-aafe4780-494e-11eb-81c5-eded51c3c716.gif">
+  
+  
+  - 질문에 답변하기
+  <p align="center"><img width="600" src="https://user-images.githubusercontent.com/59468442/103212666-ccf7ca00-494e-11eb-90a1-8d7a096950b8.gif">
+  
